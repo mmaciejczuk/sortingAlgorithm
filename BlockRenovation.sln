@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlockRenovation", "BlockRenovation\BlockRenovation.csproj", "{DB096F1E-E4A5-4BEB-B39D-B62C585EF2C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB096F1E-E4A5-4BEB-B39D-B62C585EF2C5}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{DB096F1E-E4A5-4BEB-B39D-B62C585EF2C5}.Debug|anycpu.Build.0 = Debug|anycpu
+		{DB096F1E-E4A5-4BEB-B39D-B62C585EF2C5}.Release|anycpu.ActiveCfg = Release|anycpu
+		{DB096F1E-E4A5-4BEB-B39D-B62C585EF2C5}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal
